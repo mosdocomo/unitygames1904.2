@@ -1,0 +1,2 @@
+C:\Unity\unity20180312f1\projects\unitygames1904.2\unitygames1904.2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Unity\unity20180312f1\projects\unitygames1904.2\unitygames1904.2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
